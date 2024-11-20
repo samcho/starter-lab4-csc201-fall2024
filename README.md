@@ -115,6 +115,6 @@ for each file (providing file description, author, date, and acknowledgement).
 ∗ @file: filename.java
 ∗ @description: This program implements . . .
 ∗ @author: Your Name
-∗ @date: November 14, 2024
+∗ @date: December 5, 2024
 ∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗/
 ```
